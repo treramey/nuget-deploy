@@ -1,8 +1,8 @@
 package constants
 
 import (
-	"github.com/treramey/pjs/entry"
-	"github.com/treramey/pjs/project"
+	"github.com/treramey/nuget-deploy/entry"
+	"github.com/treramey/nuget-deploy/project"
 	"github.com/charmbracelet/bubbles/key"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"

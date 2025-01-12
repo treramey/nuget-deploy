@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/treramey/pjs/entry"
-	"github.com/treramey/pjs/tui/constants"
+	"github.com/treramey/tui/entry"
+	"github.com/treramey/nuget-deploy/tui/constants"
 	"github.com/charmbracelet/bubbles/key"
 	"github.com/charmbracelet/bubbles/paginator"
 	"github.com/charmbracelet/bubbles/viewport"

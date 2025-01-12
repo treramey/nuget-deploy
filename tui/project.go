@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/treramey/pjs/project"
-	"github.com/treramey/pjs/tui/constants"
+	"github.com/treramey/nuget-deploy/project"
+	"github.com/treramey/nuget-deploy/tui/constants"
 	"github.com/charmbracelet/bubbles/key"
 	"github.com/charmbracelet/bubbles/list"
 	"github.com/charmbracelet/bubbles/textinput"
